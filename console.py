@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+m#!/usr/bin/python3
 """Command interprtr entry ptr."""
 
 import cmd
